@@ -1,0 +1,7 @@
+{
+  "0":{"priceRange":[0,60],"price":10,"imagepath":"./Images/000.jpg","record":[]},
+  "1":{"priceRange":[0,50],"price":20,"imagepath":"./Images/111.jpg","record":[]},
+  "2":{"priceRange":[0,40],"price":30,"imagepath":"./Images/222.jpg","record":[]},
+  "3":{"priceRange":[0,100],"price":40,"imagepath":"./Images/333.jpg","record":[]},
+  "4":{"priceRange":[0,90],"price":50,"imagepath":"./Images/444.jpg","record":[]}
+}
